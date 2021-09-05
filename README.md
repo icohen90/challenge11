@@ -6,8 +6,8 @@ This application is a simple note taking application that will add and delete an
 # Table of Contents
   * [Installation](#Installation)
   * [Screenshots](#Screenshots)
-  * [Built With](#BuiltWith)
-  * [Deployed With](#DeployedWith)
+  * [Built With](#Built)
+  * [Deployed With](#Deployed)
 
 # Installation
 
